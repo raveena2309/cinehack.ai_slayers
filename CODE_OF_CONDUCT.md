@@ -1,0 +1,3 @@
+- Be respectful. Harassment or hate speech is grounds for disqualification.
+- Do not submit plagiarized work. Cite third-party code and libraries.
+- Follow licensing for any third-party assets.
