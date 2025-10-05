@@ -24,28 +24,30 @@
 
 ## 🎯 Project Overview  
 SafeSpace AI is designed to:  
-- Detect and **flag hateful content** (text, audio, and image posts).  
+- Detect and **flag hateful content** (text, audio, image, and video posts).  
 - Identify and **detect pirated content** circulating over X platform.  
 - Provide a **scalable AI solution** for content moderation and platform safety.  
 
 ---
 
-## 🚀 Demo  
-Check out our **Audio Hate Speech Detector** live demo here:  
-👉 [Audio Hatespeech Detector](https://f838bd12f724323f4a.gradio.live/)  
+## 🚀 Demos  
+
+- 🎤 **Audio Hate Speech Detector** → [Live Demo](https://f838bd12f724323f4a.gradio.live/)  
+- 🎥 **Video Hate Speech Detector** → [Live Demo](https://clinometric-tissuey-celina.ngrok-free.dev/)  
+- 🖼️ **Image Hate Speech Detector** → [Live Demo](https://rachelle-opprobrious-maurita.ngrok-free.dev/)  
 
 ---
 
 ## 🛠️ Tech Stack  
 - **Machine Learning (ML/DL)**  
 - **Natural Language Processing (NLP)**  
-- **Audio Processing**  
+- **Audio, Image & Video Processing**  
 - **Gradio & Streamlit** (for demos)  
 
 ---
 
 ## 📌 Future Scope  
-- Expand coverage to **video piracy detection**.  
+- Expand coverage to **advanced video piracy detection**.  
 - **Multi-lingual hate speech detection**.  
 - **Real-time deployment** on social media platforms.  
 
