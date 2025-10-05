@@ -52,3 +52,5 @@ SafeSpace AI is designed to:
 - **Real-time deployment** on social media platforms.  
 
 ---
+## Limitations:
+For demonstration purposes, the system uses free API keys, bearer tokens, and Streamlit dashboards. While the setup is fully functional, certain usage limits are applied to maintain stability within the demo environment. For instance, the image classifier is restricted to analyzing only the most recent 20 images from X (formerly Twitter). These constraints are in place solely for demo scalability and resource management.
